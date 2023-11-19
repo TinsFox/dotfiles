@@ -1,0 +1,26 @@
+-- tab_bar_style = {
+--   new_tab = wezterm.format {
+--     {Background = {Color = HOVER_TAB_BG}},
+--     {Foreground = {Color = TAB_BAR_BG}},
+--     {Text = SOLID_RIGHT_ARROW},
+--     {Background = {Color = HOVER_TAB_BG}},
+--     {Foreground = {Color = HOVER_TAB_FG}},
+--     {Text = " + "},
+--     {Background = {Color = TAB_BAR_BG}},
+--     {Foreground = {Color = HOVER_TAB_BG}},
+--     {Text = SOLID_RIGHT_ARROW}
+--   },
+--   new_tab_hover = wezterm.format {
+--     {Attribute = {Italic = false}},
+--     {Attribute = {Intensity = "Bold"}},
+--     {Background = {Color = NORMAL_TAB_BG}},
+--     {Foreground = {Color = TAB_BAR_BG}},
+--     {Text = SOLID_RIGHT_ARROW},
+--     {Background = {Color = NORMAL_TAB_BG}},
+--     {Foreground = {Color = NORMAL_TAB_FG}},
+--     {Text = " + "},
+--     {Background = {Color = TAB_BAR_BG}},
+--     {Foreground = {Color = NORMAL_TAB_BG}},
+--     {Text = SOLID_RIGHT_ARROW}
+--   }
+-- }
