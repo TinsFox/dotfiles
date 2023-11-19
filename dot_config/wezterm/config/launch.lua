@@ -9,7 +9,7 @@ if platform.is_mac then
    options.default_prog = {"/bin/zsh"}
    options.launch_menu = {
       {label = "Bash", args = {"bash"}},
-      {label = "Zsh", args = {"zsh"}}
+--      {label = "Zsh", args = {"zsh"}}
    }
 elseif platform.is_win then
    options.default_prog = {"pwsh"}
